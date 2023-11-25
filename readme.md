@@ -1,8 +1,8 @@
-Модели находятся в файле models.zip \n
+Модели находятся в файле models.zip 
 
-Обучение группам тем в файле - CatBoost.ipynb \n
+Обучение группам тем в файле - CatBoost.ipynb 
 
-Обучение темам в файле- CatBoost-Copy1.ipynb \n
+Обучение темам в файле- CatBoost-Copy1.ipynb
 
-Проверка работы в файле - Untitled.ipynb \n
+Проверка работы в файле - Untitled.ipynb
 
